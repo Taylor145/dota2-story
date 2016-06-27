@@ -8,12 +8,7 @@
 
   <Panel hittest="false" class="ui_base" >
 
-  <Panel hittest="true" id="back">
-    <Button id="butt" onactivate="OnShufflePlayersPressed()">
-	
-	     <Label id="text" text="button or some shit" />
-    </Button>
-  </Panel>
+
 </Panel>
 
    
