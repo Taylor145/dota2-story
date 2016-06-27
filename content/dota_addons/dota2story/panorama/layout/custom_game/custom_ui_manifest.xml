@@ -6,7 +6,7 @@
 
 
 	<Panel>
-		 <CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/" />
+		 <CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/ui_layout.xml" />
 
 	</Panel>
 </root>
