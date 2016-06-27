@@ -1,0 +1,14 @@
+<root> 
+  <styles>
+    <include src="file://{resources}/styles/ui_styles.css" />
+  </styles>
+  <scripts>
+    <include src="file://{resources}/scripts/ui_scripts.js" /> 
+  </scripts>
+
+    <Panel hittest="false" class="ui_base" >
+    	
+
+
+    </Panel>
+</root>
